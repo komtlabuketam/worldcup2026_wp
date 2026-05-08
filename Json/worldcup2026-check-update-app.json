@@ -1,0 +1,18 @@
+{
+  "data": {
+    "app_info": [
+      {
+        "what_news": "-Bug fixeds",
+        "force_update": "false",
+        "package_name": "com.westpoint.worldcup2026.dailyscore",
+        "version_code": 1,
+        "version_name": "1.0",
+        "new_package_name": "com.westpoint.worldcup2026.dailyscore"
+      }
+    ]
+  },
+  "meta": {
+    "message": null,
+    "success": 1
+  }
+}
