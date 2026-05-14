@@ -1,0 +1,1944 @@
+{
+  "1417909": {
+    "match": {
+      "id": "1417909",
+      "home": "Mexico",
+      "away": "South Africa",
+      "date": "2026-06-11 20:00:00",
+      "status": "NS",
+      "tournament": "World Cup 2026"
+    },
+    "h2h": [],
+    "last5_home": [
+      "W",
+      "W",
+      "D",
+      "L",
+      "W"
+    ],
+    "last5_away": [
+      "L",
+      "D",
+      "W",
+      "L",
+      "D"
+    ]
+  },
+  "1417910": {
+    "match": {
+      "id": "1417910",
+      "home": "South Korea",
+      "away": "Czechia",
+      "date": "2026-06-12 03:00:00",
+      "status": "NS",
+      "tournament": "World Cup 2026"
+    },
+    "h2h": [],
+    "last5_home": [
+      "W",
+      "D",
+      "W",
+      "L",
+      "W"
+    ],
+    "last5_away": [
+      "W",
+      "L",
+      "D",
+      "W",
+      "L"
+    ]
+  },
+  "1417911": {
+    "match": {
+      "id": "1417911",
+      "home": "Czechia",
+      "away": "South Africa",
+      "date": "2026-06-18 17:00:00",
+      "status": "NS",
+      "tournament": "World Cup 2026"
+    },
+    "h2h": [],
+    "last5_home": [
+      "W",
+      "D",
+      "L",
+      "W",
+      "W"
+    ],
+    "last5_away": [
+      "L",
+      "W",
+      "D",
+      "L",
+      "D"
+    ]
+  },
+  "1417912": {
+    "match": {
+      "id": "1417912",
+      "home": "Mexico",
+      "away": "South Korea",
+      "date": "2026-06-19 02:00:00",
+      "status": "NS",
+      "tournament": "World Cup 2026"
+    },
+    "h2h": [],
+    "last5_home": [
+      "W",
+      "W",
+      "D",
+      "W",
+      "L"
+    ],
+    "last5_away": [
+      "W",
+      "D",
+      "W",
+      "L",
+      "W"
+    ]
+  },
+  "1417913": {
+    "match": {
+      "id": "1417913",
+      "home": "Czechia",
+      "away": "Mexico",
+      "date": "2026-06-25 02:00:00",
+      "status": "NS",
+      "tournament": "World Cup 2026"
+    },
+    "h2h": [],
+    "last5_home": [
+      "W",
+      "L",
+      "W",
+      "D",
+      "W"
+    ],
+    "last5_away": [
+      "W",
+      "W",
+      "D",
+      "L",
+      "W"
+    ]
+  },
+  "1417914": {
+    "match": {
+      "id": "1417914",
+      "home": "South Africa",
+      "away": "South Korea",
+      "date": "2026-06-25 02:00:00",
+      "status": "NS",
+      "tournament": "World Cup 2026"
+    },
+    "h2h": [],
+    "last5_home": [
+      "L",
+      "D",
+      "W",
+      "L",
+      "D"
+    ],
+    "last5_away": [
+      "W",
+      "D",
+      "W",
+      "L",
+      "W"
+    ]
+  },
+  "1417915": {
+    "match": {
+      "id": "1417915",
+      "home": "Canada",
+      "away": "Bosnia and Herzegovina",
+      "date": "2026-06-12 20:00:00",
+      "status": "NS",
+      "tournament": "World Cup 2026"
+    },
+    "h2h": [],
+    "last5_home": [
+      "W",
+      "D",
+      "L",
+      "W",
+      "W"
+    ],
+    "last5_away": [
+      "L",
+      "W",
+      "D",
+      "L",
+      "W"
+    ]
+  },
+  "1417916": {
+    "match": {
+      "id": "1417916",
+      "home": "Qatar",
+      "away": "Switzerland",
+      "date": "2026-06-13 20:00:00",
+      "status": "NS",
+      "tournament": "World Cup 2026"
+    },
+    "h2h": [],
+    "last5_home": [
+      "W",
+      "L",
+      "W",
+      "D",
+      "L"
+    ],
+    "last5_away": [
+      "W",
+      "W",
+      "D",
+      "W",
+      "W"
+    ]
+  },
+  "1417917": {
+    "match": {
+      "id": "1417917",
+      "home": "Switzerland",
+      "away": "Bosnia and Herzegovina",
+      "date": "2026-06-18 20:00:00",
+      "status": "NS",
+      "tournament": "World Cup 2026"
+    },
+    "h2h": [],
+    "last5_home": [
+      "W",
+      "W",
+      "D",
+      "W",
+      "L"
+    ],
+    "last5_away": [
+      "L",
+      "D",
+      "L",
+      "W",
+      "L"
+    ]
+  },
+  "1417918": {
+    "match": {
+      "id": "1417918",
+      "home": "Canada",
+      "away": "Qatar",
+      "date": "2026-06-18 23:00:00",
+      "status": "NS",
+      "tournament": "World Cup 2026"
+    },
+    "h2h": [],
+    "last5_home": [
+      "W",
+      "D",
+      "W",
+      "L",
+      "W"
+    ],
+    "last5_away": [
+      "L",
+      "L",
+      "D",
+      "W",
+      "L"
+    ]
+  },
+  "1417919": {
+    "match": {
+      "id": "1417919",
+      "home": "Switzerland",
+      "away": "Canada",
+      "date": "2026-06-24 20:00:00",
+      "status": "NS",
+      "tournament": "World Cup 2026"
+    },
+    "h2h": [],
+    "last5_home": [
+      "W",
+      "W",
+      "D",
+      "W",
+      "W"
+    ],
+    "last5_away": [
+      "W",
+      "D",
+      "L",
+      "W",
+      "W"
+    ]
+  },
+  "1417920": {
+    "match": {
+      "id": "1417920",
+      "home": "Bosnia and Herzegovina",
+      "away": "Qatar",
+      "date": "2026-06-24 20:00:00",
+      "status": "NS",
+      "tournament": "World Cup 2026"
+    },
+    "h2h": [],
+    "last5_home": [
+      "L",
+      "W",
+      "L",
+      "D",
+      "L"
+    ],
+    "last5_away": [
+      "W",
+      "L",
+      "W",
+      "D",
+      "L"
+    ]
+  },
+  "1417921": {
+    "match": {
+      "id": "1417921",
+      "home": "Brazil",
+      "away": "Morocco",
+      "date": "2026-06-13 23:00:00",
+      "status": "NS",
+      "tournament": "World Cup 2026"
+    },
+    "h2h": [],
+    "last5_home": [
+      "W",
+      "W",
+      "D",
+      "W",
+      "W"
+    ],
+    "last5_away": [
+      "W",
+      "D",
+      "W",
+      "L",
+      "W"
+    ]
+  },
+  "1417922": {
+    "match": {
+      "id": "1417922",
+      "home": "Morocco",
+      "away": "Haiti",
+      "date": "2026-06-24 23:00:00",
+      "status": "NS",
+      "tournament": "World Cup 2026"
+    },
+    "h2h": [],
+    "last5_home": [
+      "W",
+      "W",
+      "D",
+      "W",
+      "L"
+    ],
+    "last5_away": [
+      "L",
+      "L",
+      "W",
+      "D",
+      "L"
+    ]
+  },
+  "1417923": {
+    "match": {
+      "id": "1417923",
+      "home": "Brazil",
+      "away": "Haiti",
+      "date": "2026-06-20 01:30:00",
+      "status": "NS",
+      "tournament": "World Cup 2026"
+    },
+    "h2h": [],
+    "last5_home": [
+      "W",
+      "W",
+      "W",
+      "D",
+      "W"
+    ],
+    "last5_away": [
+      "L",
+      "D",
+      "W",
+      "L",
+      "W"
+    ]
+  },
+  "1417924": {
+    "match": {
+      "id": "1417924",
+      "home": "Scotland",
+      "away": "Morocco",
+      "date": "2026-06-19 23:00:00",
+      "status": "NS",
+      "tournament": "World Cup 2026"
+    },
+    "h2h": [],
+    "last5_home": [
+      "W",
+      "D",
+      "W",
+      "W",
+      "L"
+    ],
+    "last5_away": [
+      "W",
+      "W",
+      "D",
+      "W",
+      "W"
+    ]
+  },
+  "1417925": {
+    "match": {
+      "id": "1417925",
+      "home": "Scotland",
+      "away": "Brazil",
+      "date": "2026-06-24 23:00:00",
+      "status": "NS",
+      "tournament": "World Cup 2026"
+    },
+    "h2h": [],
+    "last5_home": [
+      "W",
+      "D",
+      "W",
+      "L",
+      "W"
+    ],
+    "last5_away": [
+      "W",
+      "W",
+      "W",
+      "D",
+      "W"
+    ]
+  },
+  "1417926": {
+    "match": {
+      "id": "1417926",
+      "home": "Haiti",
+      "away": "Scotland",
+      "date": "2026-06-14 02:00:00",
+      "status": "NS",
+      "tournament": "World Cup 2026"
+    },
+    "h2h": [],
+    "last5_home": [
+      "L",
+      "D",
+      "W",
+      "L",
+      "W"
+    ],
+    "last5_away": [
+      "W",
+      "W",
+      "D",
+      "L",
+      "W"
+    ]
+  },
+  "1417927": {
+    "match": {
+      "id": "1417927",
+      "home": "USA",
+      "away": "Paraguay",
+      "date": "2026-06-13 02:00:00",
+      "status": "NS",
+      "tournament": "World Cup 2026"
+    },
+    "h2h": [],
+    "last5_home": [
+      "L",
+      "L",
+      "W",
+      "W",
+      "W"
+    ],
+    "last5_away": [
+      "L",
+      "W",
+      "W",
+      "W",
+      "L"
+    ]
+  },
+  "1417928": {
+    "match": {
+      "id": "1417928",
+      "home": "Australia",
+      "away": "Turkiye",
+      "date": "2026-06-14 05:00:00",
+      "status": "NS",
+      "tournament": "World Cup 2026"
+    },
+    "h2h": [],
+    "last5_home": [
+      "W",
+      "W",
+      "L",
+      "W",
+      "W"
+    ],
+    "last5_away": [
+      "W",
+      "W",
+      "D",
+      "W",
+      "W"
+    ]
+  },
+  "1417929": {
+    "match": {
+      "id": "1417929",
+      "home": "Turkiye",
+      "away": "Paraguay",
+      "date": "2026-06-20 04:00:00",
+      "status": "NS",
+      "tournament": "World Cup 2026"
+    },
+    "h2h": [],
+    "last5_home": [
+      "W",
+      "W",
+      "D",
+      "W",
+      "W"
+    ],
+    "last5_away": [
+      "L",
+      "W",
+      "W",
+      "W",
+      "L"
+    ]
+  },
+  "1417930": {
+    "match": {
+      "id": "1417930",
+      "home": "USA",
+      "away": "Australia",
+      "date": "2026-06-19 20:00:00",
+      "status": "NS",
+      "tournament": "World Cup 2026"
+    },
+    "h2h": [],
+    "last5_home": [
+      "L",
+      "L",
+      "W",
+      "W",
+      "W"
+    ],
+    "last5_away": [
+      "W",
+      "W",
+      "L",
+      "W",
+      "W"
+    ]
+  },
+  "1417931": {
+    "match": {
+      "id": "1417931",
+      "home": "Turkiye",
+      "away": "USA",
+      "date": "2026-06-26 03:00:00",
+      "status": "NS",
+      "tournament": "World Cup 2026"
+    },
+    "h2h": [],
+    "last5_home": [
+      "W",
+      "W",
+      "D",
+      "W",
+      "W"
+    ],
+    "last5_away": [
+      "L",
+      "L",
+      "W",
+      "W",
+      "W"
+    ]
+  },
+  "1417932": {
+    "match": {
+      "id": "1417932",
+      "home": "Paraguay",
+      "away": "Australia",
+      "date": "2026-06-26 03:00:00",
+      "status": "NS",
+      "tournament": "World Cup 2026"
+    },
+    "h2h": [],
+    "last5_home": [
+      "L",
+      "W",
+      "W",
+      "W",
+      "L"
+    ],
+    "last5_away": [
+      "W",
+      "W",
+      "L",
+      "W",
+      "W"
+    ]
+  },
+  "1417933": {
+    "match": {
+      "id": "1417933",
+      "home": "Germany",
+      "away": "Curacao",
+      "date": "2026-06-14 18:00:00",
+      "status": "NS",
+      "tournament": "World Cup 2026"
+    },
+    "h2h": [],
+    "last5_home": [
+      "W",
+      "D",
+      "W",
+      "L",
+      "W"
+    ],
+    "last5_away": [
+      "L",
+      "D",
+      "L",
+      "W",
+      "D"
+    ]
+  },
+  "1417934": {
+    "match": {
+      "id": "1417934",
+      "home": "Ivory Coast",
+      "away": "Ecuador",
+      "date": "2026-06-15 00:00:00",
+      "status": "NS",
+      "tournament": "World Cup 2026"
+    },
+    "h2h": [],
+    "last5_home": [
+      "W",
+      "W",
+      "D",
+      "L",
+      "W"
+    ],
+    "last5_away": [
+      "W",
+      "D",
+      "W",
+      "L",
+      "D"
+    ]
+  },
+  "1417935": {
+    "match": {
+      "id": "1417935",
+      "home": "Ecuador",
+      "away": "Curacao",
+      "date": "2026-06-21 01:00:00",
+      "status": "NS",
+      "tournament": "World Cup 2026"
+    },
+    "h2h": [],
+    "last5_home": [
+      "W",
+      "D",
+      "W",
+      "L",
+      "D"
+    ],
+    "last5_away": [
+      "L",
+      "D",
+      "L",
+      "W",
+      "D"
+    ]
+  },
+  "1417936": {
+    "match": {
+      "id": "1417936",
+      "home": "Germany",
+      "away": "Ivory Coast",
+      "date": "2026-06-20 21:00:00",
+      "status": "NS",
+      "tournament": "World Cup 2026"
+    },
+    "h2h": [],
+    "last5_home": [
+      "W",
+      "D",
+      "W",
+      "L",
+      "W"
+    ],
+    "last5_away": [
+      "W",
+      "W",
+      "D",
+      "L",
+      "W"
+    ]
+  },
+  "1417937": {
+    "match": {
+      "id": "1417937",
+      "home": "Ecuador",
+      "away": "Germany",
+      "date": "2026-06-25 21:00:00",
+      "status": "NS",
+      "tournament": "World Cup 2026"
+    },
+    "h2h": [
+      {
+        "date": "2006-06-20",
+        "score": "3-0",
+        "winner": "Germany"
+      }
+    ],
+    "last5_home": [
+      "W",
+      "D",
+      "W",
+      "L",
+      "D"
+    ],
+    "last5_away": [
+      "W",
+      "D",
+      "W",
+      "L",
+      "W"
+    ]
+  },
+  "1417938": {
+    "match": {
+      "id": "1417938",
+      "home": "Curacao",
+      "away": "Ivory Coast",
+      "date": "2026-06-25 21:00:00",
+      "status": "NS",
+      "tournament": "World Cup 2026"
+    },
+    "h2h": [],
+    "last5_home": [
+      "L",
+      "D",
+      "L",
+      "W",
+      "D"
+    ],
+    "last5_away": [
+      "W",
+      "W",
+      "D",
+      "L",
+      "W"
+    ]
+  },
+  "1417939": {
+    "match": {
+      "id": "1417939",
+      "home": "Netherlands",
+      "away": "Japan",
+      "date": "2026-06-14 21:00:00",
+      "status": "NS",
+      "tournament": "World Cup 2026"
+    },
+    "h2h": [
+      {
+        "date": "2009-09-05",
+        "score": "3-0",
+        "winner": "Netherlands"
+      }
+    ],
+    "last5_home": [
+      "W",
+      "D",
+      "W",
+      "W",
+      "L"
+    ],
+    "last5_away": [
+      "W",
+      "W",
+      "D",
+      "L",
+      "W"
+    ]
+  },
+  "1417940": {
+    "match": {
+      "id": "1417940",
+      "home": "Sweden",
+      "away": "Tunisia",
+      "date": "2026-06-15 03:00:00",
+      "status": "NS",
+      "tournament": "World Cup 2026"
+    },
+    "h2h": [
+      {
+        "date": "2002-06-02",
+        "score": "1-1",
+        "winner": "Draw"
+      }
+    ],
+    "last5_home": [
+      "D",
+      "W",
+      "L",
+      "W",
+      "D"
+    ],
+    "last5_away": [
+      "L",
+      "D",
+      "W",
+      "L",
+      "D"
+    ]
+  },
+  "1417941": {
+    "match": {
+      "id": "1417941",
+      "home": "Tunisia",
+      "away": "Japan",
+      "date": "2026-06-21 05:00:00",
+      "status": "NS",
+      "tournament": "World Cup 2026"
+    },
+    "h2h": [
+      {
+        "date": "2023-10-17",
+        "score": "2-0",
+        "winner": "Japan"
+      }
+    ],
+    "last5_home": [
+      "L",
+      "D",
+      "W",
+      "L",
+      "D"
+    ],
+    "last5_away": [
+      "W",
+      "W",
+      "D",
+      "L",
+      "W"
+    ]
+  },
+  "1417942": {
+    "match": {
+      "id": "1417942",
+      "home": "Netherlands",
+      "away": "Sweden",
+      "date": "2026-06-20 18:00:00",
+      "status": "NS",
+      "tournament": "World Cup 2026"
+    },
+    "h2h": [
+      {
+        "date": "2011-10-11",
+        "score": "3-2",
+        "winner": "Sweden"
+      }
+    ],
+    "last5_home": [
+      "W",
+      "D",
+      "W",
+      "W",
+      "L"
+    ],
+    "last5_away": [
+      "D",
+      "W",
+      "L",
+      "W",
+      "D"
+    ]
+  },
+  "1417943": {
+    "match": {
+      "id": "1417943",
+      "home": "Tunisia",
+      "away": "Netherlands",
+      "date": "2026-06-26 00:00:00",
+      "status": "NS",
+      "tournament": "World Cup 2026"
+    },
+    "h2h": [],
+    "last5_home": [
+      "L",
+      "D",
+      "W",
+      "L",
+      "D"
+    ],
+    "last5_away": [
+      "W",
+      "D",
+      "W",
+      "W",
+      "L"
+    ]
+  },
+  "1417944": {
+    "match": {
+      "id": "1417944",
+      "home": "Japan",
+      "away": "Sweden",
+      "date": "2026-06-26 00:00:00",
+      "status": "NS",
+      "tournament": "World Cup 2026"
+    },
+    "h2h": [
+      {
+        "date": "2023-08-11",
+        "score": "2-1",
+        "winner": "Sweden"
+      }
+    ],
+    "last5_home": [
+      "W",
+      "W",
+      "D",
+      "L",
+      "W"
+    ],
+    "last5_away": [
+      "D",
+      "W",
+      "L",
+      "W",
+      "D"
+    ]
+  },
+  "1417945": {
+    "match": {
+      "id": "1417945",
+      "home": "Belgium",
+      "away": "Egypt",
+      "date": "2026-06-15 20:00:00",
+      "status": "NS",
+      "tournament": "World Cup 2026"
+    },
+    "h2h": [
+      {
+        "date": "2022-11-18",
+        "score": "2-1",
+        "winner": "Egypt"
+      }
+    ],
+    "last5_home": [
+      "W",
+      "W",
+      "L",
+      "D",
+      "W"
+    ],
+    "last5_away": [
+      "L",
+      "W",
+      "D",
+      "W",
+      "L"
+    ]
+  },
+  "1417946": {
+    "match": {
+      "id": "1417946",
+      "home": "Iran",
+      "away": "New Zealand",
+      "date": "2026-06-16 02:00:00",
+      "status": "NS",
+      "tournament": "World Cup 2026"
+    },
+    "h2h": [],
+    "last5_home": [
+      "W",
+      "D",
+      "L",
+      "W",
+      "W"
+    ],
+    "last5_away": [
+      "D",
+      "W",
+      "L",
+      "D",
+      "W"
+    ]
+  },
+  "1417947": {
+    "match": {
+      "id": "1417947",
+      "home": "New Zealand",
+      "away": "Egypt",
+      "date": "2026-06-22 02:00:00",
+      "status": "NS",
+      "tournament": "World Cup 2026"
+    },
+    "h2h": [],
+    "last5_home": [
+      "D",
+      "W",
+      "L",
+      "D",
+      "W"
+    ],
+    "last5_away": [
+      "L",
+      "W",
+      "D",
+      "W",
+      "L"
+    ]
+  },
+  "1417948": {
+    "match": {
+      "id": "1417948",
+      "home": "Belgium",
+      "away": "Iran",
+      "date": "2026-06-21 20:00:00",
+      "status": "NS",
+      "tournament": "World Cup 2026"
+    },
+    "h2h": [],
+    "last5_home": [
+      "W",
+      "W",
+      "L",
+      "D",
+      "W"
+    ],
+    "last5_away": [
+      "W",
+      "D",
+      "L",
+      "W",
+      "W"
+    ]
+  },
+  "1417949": {
+    "match": {
+      "id": "1417949",
+      "home": "New Zealand",
+      "away": "Belgium",
+      "date": "2026-06-27 04:00:00",
+      "status": "NS",
+      "tournament": "World Cup 2026"
+    },
+    "h2h": [],
+    "last5_home": [
+      "D",
+      "W",
+      "L",
+      "D",
+      "W"
+    ],
+    "last5_away": [
+      "W",
+      "W",
+      "L",
+      "D",
+      "W"
+    ]
+  },
+  "1417950": {
+    "match": {
+      "id": "1417950",
+      "home": "Egypt",
+      "away": "Iran",
+      "date": "2026-06-27 04:00:00",
+      "status": "NS",
+      "tournament": "World Cup 2026"
+    },
+    "h2h": [
+      {
+        "date": "1977-09-04",
+        "score": "1-0",
+        "winner": "Iran"
+      }
+    ],
+    "last5_home": [
+      "L",
+      "W",
+      "D",
+      "W",
+      "L"
+    ],
+    "last5_away": [
+      "W",
+      "D",
+      "L",
+      "W",
+      "W"
+    ]
+  },
+  "1417951": {
+    "match": {
+      "id": "1417951",
+      "home": "Spain",
+      "away": "Cape Verde",
+      "date": "2026-06-15 17:00:00",
+      "status": "NS",
+      "tournament": "World Cup 2026"
+    },
+    "h2h": [],
+    "last5_home": [
+      "W",
+      "W",
+      "D",
+      "W",
+      "W"
+    ],
+    "last5_away": [
+      "L",
+      "D",
+      "W",
+      "L",
+      "D"
+    ]
+  },
+  "1417952": {
+    "match": {
+      "id": "1417952",
+      "home": "Saudi Arabia",
+      "away": "Uruguay",
+      "date": "2026-06-15 23:00:00",
+      "status": "NS",
+      "tournament": "World Cup 2026"
+    },
+    "h2h": [
+      {
+        "date": "2022-11-22",
+        "score": "2-1",
+        "winner": "Saudi Arabia"
+      }
+    ],
+    "last5_home": [
+      "W",
+      "L",
+      "D",
+      "W",
+      "L"
+    ],
+    "last5_away": [
+      "W",
+      "W",
+      "D",
+      "L",
+      "W"
+    ]
+  },
+  "1417953": {
+    "match": {
+      "id": "1417953",
+      "home": "Uruguay",
+      "away": "Cape Verde",
+      "date": "2026-06-21 23:00:00",
+      "status": "NS",
+      "tournament": "World Cup 2026"
+    },
+    "h2h": [],
+    "last5_home": [
+      "W",
+      "W",
+      "D",
+      "L",
+      "W"
+    ],
+    "last5_away": [
+      "L",
+      "D",
+      "W",
+      "L",
+      "D"
+    ]
+  },
+  "1417954": {
+    "match": {
+      "id": "1417954",
+      "home": "Spain",
+      "away": "Saudi Arabia",
+      "date": "2026-06-21 17:00:00",
+      "status": "NS",
+      "tournament": "World Cup 2026"
+    },
+    "h2h": [],
+    "last5_home": [
+      "W",
+      "W",
+      "D",
+      "W",
+      "W"
+    ],
+    "last5_away": [
+      "W",
+      "L",
+      "D",
+      "W",
+      "L"
+    ]
+  },
+  "1417955": {
+    "match": {
+      "id": "1417955",
+      "home": "Uruguay",
+      "away": "Spain",
+      "date": "2026-06-27 01:00:00",
+      "status": "NS",
+      "tournament": "World Cup 2026"
+    },
+    "h2h": [
+      {
+        "date": "2022-09-23",
+        "score": "0-0",
+        "winner": "Draw"
+      }
+    ],
+    "last5_home": [
+      "W",
+      "W",
+      "D",
+      "L",
+      "W"
+    ],
+    "last5_away": [
+      "W",
+      "W",
+      "D",
+      "W",
+      "W"
+    ]
+  },
+  "1417956": {
+    "match": {
+      "id": "1417956",
+      "home": "Cape Verde",
+      "away": "Saudi Arabia",
+      "date": "2026-06-27 01:00:00",
+      "status": "NS",
+      "tournament": "World Cup 2026"
+    },
+    "h2h": [],
+    "last5_home": [
+      "L",
+      "D",
+      "W",
+      "L",
+      "D"
+    ],
+    "last5_away": [
+      "W",
+      "L",
+      "D",
+      "W",
+      "L"
+    ]
+  },
+  "1417957": {
+    "match": {
+      "id": "1417957",
+      "home": "France",
+      "away": "Senegal",
+      "date": "2026-06-16 20:00:00",
+      "status": "NS",
+      "tournament": "World Cup 2026"
+    },
+    "h2h": [
+      {
+        "date": "2002-05-31",
+        "score": "1-0",
+        "winner": "Senegal"
+      }
+    ],
+    "last5_home": [
+      "W",
+      "W",
+      "D",
+      "W",
+      "W"
+    ],
+    "last5_away": [
+      "W",
+      "D",
+      "W",
+      "L",
+      "W"
+    ]
+  },
+  "1417958": {
+    "match": {
+      "id": "1417958",
+      "home": "Iraq",
+      "away": "Norway",
+      "date": "2026-06-16 23:00:00",
+      "status": "NS",
+      "tournament": "World Cup 2026"
+    },
+    "h2h": [],
+    "last5_home": [
+      "D",
+      "W",
+      "L",
+      "D",
+      "W"
+    ],
+    "last5_away": [
+      "W",
+      "W",
+      "D",
+      "L",
+      "W"
+    ]
+  },
+  "1417959": {
+    "match": {
+      "id": "1417959",
+      "home": "Norway",
+      "away": "Senegal",
+      "date": "2026-06-23 01:00:00",
+      "status": "NS",
+      "tournament": "World Cup 2026"
+    },
+    "h2h": [],
+    "last5_home": [
+      "W",
+      "W",
+      "D",
+      "L",
+      "W"
+    ],
+    "last5_away": [
+      "W",
+      "D",
+      "W",
+      "L",
+      "W"
+    ]
+  },
+  "1417960": {
+    "match": {
+      "id": "1417960",
+      "home": "France",
+      "away": "Iraq",
+      "date": "2026-06-22 22:00:00",
+      "status": "NS",
+      "tournament": "World Cup 2026"
+    },
+    "h2h": [],
+    "last5_home": [
+      "W",
+      "W",
+      "D",
+      "W",
+      "W"
+    ],
+    "last5_away": [
+      "D",
+      "W",
+      "L",
+      "D",
+      "W"
+    ]
+  },
+  "1417961": {
+    "match": {
+      "id": "1417961",
+      "home": "Norway",
+      "away": "France",
+      "date": "2026-06-26 20:00:00",
+      "status": "NS",
+      "tournament": "World Cup 2026"
+    },
+    "h2h": [
+      {
+        "date": "1998-06-27",
+        "score": "2-1",
+        "winner": "Norway"
+      }
+    ],
+    "last5_home": [
+      "W",
+      "W",
+      "D",
+      "L",
+      "W"
+    ],
+    "last5_away": [
+      "W",
+      "W",
+      "D",
+      "W",
+      "W"
+    ]
+  },
+  "1417962": {
+    "match": {
+      "id": "1417962",
+      "home": "Senegal",
+      "away": "Iraq",
+      "date": "2026-06-26 20:00:00",
+      "status": "NS",
+      "tournament": "World Cup 2026"
+    },
+    "h2h": [],
+    "last5_home": [
+      "W",
+      "D",
+      "W",
+      "L",
+      "W"
+    ],
+    "last5_away": [
+      "D",
+      "W",
+      "L",
+      "D",
+      "W"
+    ]
+  },
+  "1417963": {
+    "match": {
+      "id": "1417963",
+      "home": "Argentina",
+      "away": "Algeria",
+      "date": "2026-06-17 02:00:00",
+      "status": "NS",
+      "tournament": "World Cup 2026"
+    },
+    "h2h": [
+      {
+        "date": "2007-11-18",
+        "score": "4-3",
+        "winner": "Argentina"
+      }
+    ],
+    "last5_home": [
+      "W",
+      "W",
+      "W",
+      "D",
+      "W"
+    ],
+    "last5_away": [
+      "W",
+      "L",
+      "D",
+      "W",
+      "L"
+    ]
+  },
+  "1417964": {
+    "match": {
+      "id": "1417964",
+      "home": "Austria",
+      "away": "Jordan",
+      "date": "2026-06-17 05:00:00",
+      "status": "NS",
+      "tournament": "World Cup 2026"
+    },
+    "h2h": [
+      {
+        "date": "2013-11-15",
+        "score": "5-0",
+        "winner": "Austria"
+      },
+      {
+        "date": "2013-11-19",
+        "score": "0-0",
+        "winner": "Draw"
+      }
+    ],
+    "last5_home": [
+      "W",
+      "D",
+      "W",
+      "L",
+      "W"
+    ],
+    "last5_away": [
+      "W",
+      "W",
+      "D",
+      "L",
+      "W"
+    ]
+  },
+  "1417965": {
+    "match": {
+      "id": "1417965",
+      "home": "Jordan",
+      "away": "Algeria",
+      "date": "2026-06-23 04:00:00",
+      "status": "NS",
+      "tournament": "World Cup 2026"
+    },
+    "h2h": [],
+    "last5_home": [
+      "W",
+      "W",
+      "D",
+      "L",
+      "W"
+    ],
+    "last5_away": [
+      "W",
+      "L",
+      "D",
+      "W",
+      "L"
+    ]
+  },
+  "1417966": {
+    "match": {
+      "id": "1417966",
+      "home": "Argentina",
+      "away": "Austria",
+      "date": "2026-06-22 18:00:00",
+      "status": "NS",
+      "tournament": "World Cup 2026"
+    },
+    "h2h": [
+      {
+        "date": "1978-06-18",
+        "score": "2-1",
+        "winner": "Argentina"
+      }
+    ],
+    "last5_home": [
+      "W",
+      "W",
+      "W",
+      "D",
+      "W"
+    ],
+    "last5_away": [
+      "W",
+      "D",
+      "W",
+      "L",
+      "W"
+    ]
+  },
+  "1417967": {
+    "match": {
+      "id": "1417967",
+      "home": "Jordan",
+      "away": "Argentina",
+      "date": "2026-06-28 03:00:00",
+      "status": "NS",
+      "tournament": "World Cup 2026"
+    },
+    "h2h": [
+      {
+        "date": "2015-09-08",
+        "score": "3-0",
+        "winner": "Argentina"
+      }
+    ],
+    "last5_home": [
+      "W",
+      "W",
+      "D",
+      "L",
+      "W"
+    ],
+    "last5_away": [
+      "W",
+      "W",
+      "W",
+      "D",
+      "W"
+    ]
+  },
+  "1417968": {
+    "match": {
+      "id": "1417968",
+      "home": "Algeria",
+      "away": "Austria",
+      "date": "2026-06-28 03:00:00",
+      "status": "NS",
+      "tournament": "World Cup 2026"
+    },
+    "h2h": [
+      {
+        "date": "1982-06-16",
+        "score": "2-0",
+        "winner": "Algeria"
+      }
+    ],
+    "last5_home": [
+      "W",
+      "L",
+      "D",
+      "W",
+      "L"
+    ],
+    "last5_away": [
+      "W",
+      "D",
+      "W",
+      "L",
+      "W"
+    ]
+  },
+  "1417969": {
+    "match": {
+      "id": "1417969",
+      "home": "Portugal",
+      "away": "DR Congo",
+      "date": "2026-06-17 18:00:00",
+      "status": "NS",
+      "tournament": "World Cup 2026"
+    },
+    "h2h": [],
+    "last5_home": [
+      "W",
+      "W",
+      "D",
+      "W",
+      "L"
+    ],
+    "last5_away": [
+      "L",
+      "D",
+      "W",
+      "L",
+      "W"
+    ]
+  },
+  "1417970": {
+    "match": {
+      "id": "1417970",
+      "home": "Uzbekistan",
+      "away": "Colombia",
+      "date": "2026-06-18 03:00:00",
+      "status": "NS",
+      "tournament": "World Cup 2026"
+    },
+    "h2h": [],
+    "last5_home": [
+      "W",
+      "D",
+      "W",
+      "L",
+      "D"
+    ],
+    "last5_away": [
+      "W",
+      "W",
+      "D",
+      "W",
+      "W"
+    ]
+  },
+  "1417971": {
+    "match": {
+      "id": "1417971",
+      "home": "Colombia",
+      "away": "DR Congo",
+      "date": "2026-06-24 03:00:00",
+      "status": "NS",
+      "tournament": "World Cup 2026"
+    },
+    "h2h": [],
+    "last5_home": [
+      "W",
+      "W",
+      "D",
+      "W",
+      "W"
+    ],
+    "last5_away": [
+      "L",
+      "D",
+      "W",
+      "L",
+      "W"
+    ]
+  },
+  "1417972": {
+    "match": {
+      "id": "1417972",
+      "home": "Portugal",
+      "away": "Uzbekistan",
+      "date": "2026-06-23 18:00:00",
+      "status": "NS",
+      "tournament": "World Cup 2026"
+    },
+    "h2h": [],
+    "last5_home": [
+      "W",
+      "W",
+      "D",
+      "W",
+      "L"
+    ],
+    "last5_away": [
+      "W",
+      "D",
+      "W",
+      "L",
+      "D"
+    ]
+  },
+  "1417973": {
+    "match": {
+      "id": "1417973",
+      "home": "Colombia",
+      "away": "Portugal",
+      "date": "2026-06-28 00:30:00",
+      "status": "NS",
+      "tournament": "World Cup 2026"
+    },
+    "h2h": [
+      {
+        "date": "2018-06-07",
+        "score": "3-1",
+        "winner": "Portugal"
+      }
+    ],
+    "last5_home": [
+      "W",
+      "W",
+      "D",
+      "W",
+      "W"
+    ],
+    "last5_away": [
+      "W",
+      "W",
+      "D",
+      "W",
+      "L"
+    ]
+  },
+  "1417974": {
+    "match": {
+      "id": "1417974",
+      "home": "DR Congo",
+      "away": "Uzbekistan",
+      "date": "2026-06-28 00:30:00",
+      "status": "NS",
+      "tournament": "World Cup 2026"
+    },
+    "h2h": [],
+    "last5_home": [
+      "L",
+      "D",
+      "W",
+      "L",
+      "W"
+    ],
+    "last5_away": [
+      "W",
+      "D",
+      "W",
+      "L",
+      "D"
+    ]
+  },
+  "1417975": {
+    "match": {
+      "id": "1417975",
+      "home": "Ghana",
+      "away": "Panama",
+      "date": "2026-06-18 00:00:00",
+      "status": "NS",
+      "tournament": "World Cup 2026"
+    },
+    "h2h": [],
+    "last5_home": [
+      "W",
+      "D",
+      "W",
+      "L",
+      "W"
+    ],
+    "last5_away": [
+      "W",
+      "D",
+      "L",
+      "D",
+      "W"
+    ]
+  },
+  "1417976": {
+    "match": {
+      "id": "1417976",
+      "home": "Panama",
+      "away": "Croatia",
+      "date": "2026-06-24 00:00:00",
+      "status": "NS",
+      "tournament": "World Cup 2026"
+    },
+    "h2h": [
+      {
+        "date": "2017-06-01",
+        "score": "1-1",
+        "winner": "Draw"
+      }
+    ],
+    "last5_home": [
+      "W",
+      "D",
+      "L",
+      "D",
+      "W"
+    ],
+    "last5_away": [
+      "W",
+      "D",
+      "W",
+      "L",
+      "W"
+    ]
+  },
+  "1417977": {
+    "match": {
+      "id": "1417977",
+      "home": "England",
+      "away": "Ghana",
+      "date": "2026-06-23 21:00:00",
+      "status": "NS",
+      "tournament": "World Cup 2026"
+    },
+    "h2h": [
+      {
+        "date": "2011-03-29",
+        "score": "1-1",
+        "winner": "Draw"
+      }
+    ],
+    "last5_home": [
+      "L",
+      "D",
+      "W",
+      "W",
+      "W"
+    ],
+    "last5_away": [
+      "W",
+      "D",
+      "W",
+      "L",
+      "W"
+    ]
+  },
+  "1417978": {
+    "match": {
+      "id": "1417978",
+      "home": "Panama",
+      "away": "England",
+      "date": "2026-06-27 22:00:00",
+      "status": "NS",
+      "tournament": "World Cup 2026"
+    },
+    "h2h": [
+      {
+        "date": "2018-06-24",
+        "score": "1-6",
+        "winner": "England"
+      }
+    ],
+    "last5_home": [
+      "W",
+      "D",
+      "L",
+      "D",
+      "W"
+    ],
+    "last5_away": [
+      "L",
+      "D",
+      "W",
+      "W",
+      "W"
+    ]
+  },
+  "1417979": {
+    "match": {
+      "id": "1417979",
+      "home": "Croatia",
+      "away": "Ghana",
+      "date": "2026-06-27 22:00:00",
+      "status": "NS",
+      "tournament": "World Cup 2026"
+    },
+    "h2h": [],
+    "last5_home": [
+      "W",
+      "D",
+      "W",
+      "L",
+      "W"
+    ],
+    "last5_away": [
+      "W",
+      "D",
+      "W",
+      "L",
+      "W"
+    ]
+  },
+  "1417980": {
+    "match": {
+      "id": "1417980",
+      "home": "England",
+      "away": "Croatia",
+      "date": "2026-06-17 21:00:00",
+      "status": "NS",
+      "tournament": "World Cup 2026"
+    },
+    "h2h": [
+      {
+        "date": "2021-06-13",
+        "score": "1-0",
+        "winner": "England"
+      },
+      {
+        "date": "2018-07-11",
+        "score": "2-1",
+        "winner": "Croatia"
+      }
+    ],
+    "last5_home": [
+      "L",
+      "D",
+      "W",
+      "W",
+      "W"
+    ],
+    "last5_away": [
+      "W",
+      "D",
+      "W",
+      "L",
+      "W"
+    ]
+  }
+}
