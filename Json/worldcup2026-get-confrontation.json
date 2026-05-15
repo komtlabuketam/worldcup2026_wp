@@ -8,7 +8,27 @@
       "status": "NS",
       "tournament": "World Cup 2026"
     },
-    "h2h": [],
+    "h2h": [
+      {
+        "date": "2010-06-11",
+        "score": "1-1",
+        "winner": "Draw",
+        "events": [
+          {
+            "minute": 55,
+            "team": "South Africa",
+            "player": "Siphiwe Tshabalala",
+            "type": "goal"
+          },
+          {
+            "minute": 79,
+            "team": "Mexico",
+            "player": "Rafael Márquez",
+            "type": "goal"
+          }
+        ]
+      }
+    ],
     "last5_home": [
       "W",
       "W",
@@ -22,7 +42,15 @@
       "W",
       "L",
       "D"
-    ]
+    ],
+    "prediction": {
+      "most_likely_score": "2-0",
+      "alternatives": [
+        "1-0",
+        "2-1",
+        "3-0"
+      ]
+    }
   },
   "1417910": {
     "match": {
@@ -33,7 +61,34 @@
       "status": "NS",
       "tournament": "World Cup 2026"
     },
-    "h2h": [],
+    "h2h": [
+      {
+        "date": "2016-06-05",
+        "score": "1-2",
+        "winner": "South Korea",
+        "competition": "Friendly",
+        "events": [
+          {
+            "minute": 26,
+            "team": "South Korea",
+            "player": "Kim Shin-wook",
+            "type": "goal"
+          },
+          {
+            "minute": 58,
+            "team": "South Korea",
+            "player": "Lee Jae-sung",
+            "type": "goal"
+          },
+          {
+            "minute": 76,
+            "team": "Czechia",
+            "player": "Milan Škoda",
+            "type": "goal"
+          }
+        ]
+      }
+    ],
     "last5_home": [
       "W",
       "D",
@@ -47,7 +102,15 @@
       "D",
       "W",
       "L"
-    ]
+    ],
+    "prediction": {
+      "most_likely_score": "1-1",
+      "alternatives": [
+        "2-1",
+        "1-0",
+        "0-1"
+      ]
+    }
   },
   "1417911": {
     "match": {
@@ -58,7 +121,40 @@
       "status": "NS",
       "tournament": "World Cup 2026"
     },
-    "h2h": [],
+    "h2h": [
+      {
+        "date": "1997-12-13",
+        "score": "2-2",
+        "winner": "Draw",
+        "competition": "Friendly",
+        "events": [
+          {
+            "minute": 18,
+            "team": "South Africa",
+            "player": "Phil Masinga",
+            "type": "goal"
+          },
+          {
+            "minute": 37,
+            "team": "South Africa",
+            "player": "Mark Williams",
+            "type": "goal"
+          },
+          {
+            "minute": 64,
+            "team": "Czechia",
+            "player": "Jan Suchopárek",
+            "type": "goal"
+          },
+          {
+            "minute": 82,
+            "team": "Czechia",
+            "player": "Patrik Berger",
+            "type": "goal"
+          }
+        ]
+      }
+    ],
     "last5_home": [
       "W",
       "D",
@@ -72,7 +168,15 @@
       "D",
       "L",
       "D"
-    ]
+    ],
+    "prediction": {
+      "most_likely_score": "2-0",
+      "alternatives": [
+        "1-0",
+        "2-1",
+        "3-0"
+      ]
+    }
   },
   "1417912": {
     "match": {
@@ -83,7 +187,35 @@
       "status": "NS",
       "tournament": "World Cup 2026"
     },
-    "h2h": [],
+    "h2h": [
+      {
+        "date": "2018-06-23",
+        "home": "South Korea",
+        "away": "Mexico",
+        "score": "1-2",
+        "status": "FT",
+        "events": [
+          {
+            "minute": 26,
+            "team": "Mexico",
+            "player": "Carlos Vela",
+            "type": "goal"
+          },
+          {
+            "minute": 66,
+            "team": "Mexico",
+            "player": "Javier Hernández",
+            "type": "goal"
+          },
+          {
+            "minute": 90,
+            "team": "South Korea",
+            "player": "Son Heung-min",
+            "type": "goal"
+          }
+        ]
+      }
+    ],
     "last5_home": [
       "W",
       "W",
@@ -97,7 +229,15 @@
       "W",
       "L",
       "W"
-    ]
+    ],
+    "prediction": {
+      "most_likely_score": "1-1",
+      "alternatives": [
+        "2-1",
+        "1-0",
+        "0-1"
+      ]
+    }
   },
   "1417913": {
     "match": {
@@ -108,7 +248,26 @@
       "status": "NS",
       "tournament": "World Cup 2026"
     },
-    "h2h": [],
+    "h2h": [
+      {
+        "date": "2025-09-10",
+        "score": "2-2",
+        "events": [
+          {
+            "minute": 22,
+            "team": "Mexico",
+            "player": "Raúl Jiménez",
+            "type": "goal"
+          },
+          {
+            "minute": 65,
+            "team": "South Korea",
+            "player": "Son Heung-min",
+            "type": "goal"
+          }
+        ]
+      }
+    ],
     "last5_home": [
       "W",
       "L",
@@ -122,32 +281,15 @@
       "D",
       "L",
       "W"
-    ]
-  },
-  "1417914": {
-    "match": {
-      "id": "1417914",
-      "home": "South Africa",
-      "away": "South Korea",
-      "date": "2026-06-25 02:00:00",
-      "status": "NS",
-      "tournament": "World Cup 2026"
-    },
-    "h2h": [],
-    "last5_home": [
-      "L",
-      "D",
-      "W",
-      "L",
-      "D"
     ],
-    "last5_away": [
-      "W",
-      "D",
-      "W",
-      "L",
-      "W"
-    ]
+    "prediction": {
+      "most_likely_score": "1-1",
+      "alternatives": [
+        "1-0",
+        "0-1",
+        "2-1"
+      ]
+    }
   },
   "1417915": {
     "match": {
@@ -158,7 +300,34 @@
       "status": "NS",
       "tournament": "World Cup 2026"
     },
-    "h2h": [],
+    "h2h": [
+      {
+        "date": "2014-05-23",
+        "score": "0-3",
+        "winner": "Bosnia and Herzegovina",
+        "competition": "Friendly",
+        "events": [
+          {
+            "minute": 18,
+            "team": "Bosnia and Herzegovina",
+            "player": "Edin Džeko",
+            "type": "goal"
+          },
+          {
+            "minute": 44,
+            "team": "Bosnia and Herzegovina",
+            "player": "Edin Džeko",
+            "type": "goal"
+          },
+          {
+            "minute": 70,
+            "team": "Bosnia and Herzegovina",
+            "player": "Vedad Ibišević",
+            "type": "goal"
+          }
+        ]
+      }
+    ],
     "last5_home": [
       "W",
       "D",
@@ -172,7 +341,15 @@
       "D",
       "L",
       "W"
-    ]
+    ],
+    "prediction": {
+      "most_likely_score": "2-0",
+      "alternatives": [
+        "1-0",
+        "2-1",
+        "3-0"
+      ]
+    }
   },
   "1417916": {
     "match": {
@@ -183,7 +360,22 @@
       "status": "NS",
       "tournament": "World Cup 2026"
     },
-    "h2h": [],
+    "h2h": [
+      {
+        "date": "2018-11-14",
+        "score": "0-1",
+        "winner": "Qatar",
+        "competition": "Friendly",
+        "events": [
+          {
+            "minute": 86,
+            "team": "Qatar",
+            "player": "Akram Afif",
+            "type": "goal"
+          }
+        ]
+      }
+    ],
     "last5_home": [
       "W",
       "L",
@@ -197,7 +389,15 @@
       "D",
       "W",
       "W"
-    ]
+    ],
+    "prediction": {
+      "most_likely_score": "0-2",
+      "alternatives": [
+        "0-1",
+        "1-2",
+        "0-3"
+      ]
+    }
   },
   "1417917": {
     "match": {
@@ -208,7 +408,28 @@
       "status": "NS",
       "tournament": "World Cup 2026"
     },
-    "h2h": [],
+    "h2h": [
+      {
+        "date": "2016-03-29",
+        "score": "0-2",
+        "winner": "Bosnia and Herzegovina",
+        "competition": "Friendly",
+        "events": [
+          {
+            "minute": 14,
+            "team": "Bosnia and Herzegovina",
+            "player": "Edin Džeko",
+            "type": "goal"
+          },
+          {
+            "minute": 57,
+            "team": "Bosnia and Herzegovina",
+            "player": "Miralem Pjanić",
+            "type": "goal"
+          }
+        ]
+      }
+    ],
     "last5_home": [
       "W",
       "W",
@@ -222,7 +443,15 @@
       "L",
       "W",
       "L"
-    ]
+    ],
+    "prediction": {
+      "most_likely_score": "2-0",
+      "alternatives": [
+        "1-0",
+        "2-1",
+        "3-0"
+      ]
+    }
   },
   "1417918": {
     "match": {
@@ -233,7 +462,22 @@
       "status": "NS",
       "tournament": "World Cup 2026"
     },
-    "h2h": [],
+    "h2h": [
+      {
+        "date": "2010-10-13",
+        "score": "1-0",
+        "winner": "Canada",
+        "competition": "Friendly",
+        "events": [
+          {
+            "minute": 63,
+            "team": "Canada",
+            "player": "Will Johnson",
+            "type": "goal"
+          }
+        ]
+      }
+    ],
     "last5_home": [
       "W",
       "D",
@@ -247,7 +491,15 @@
       "D",
       "W",
       "L"
-    ]
+    ],
+    "prediction": {
+      "most_likely_score": "2-0",
+      "alternatives": [
+        "1-0",
+        "2-1",
+        "3-0"
+      ]
+    }
   },
   "1417919": {
     "match": {
@@ -258,7 +510,34 @@
       "status": "NS",
       "tournament": "World Cup 2026"
     },
-    "h2h": [],
+    "h2h": [
+      {
+        "date": "2018-11-20",
+        "score": "1-2",
+        "winner": "Canada",
+        "competition": "Friendly",
+        "events": [
+          {
+            "minute": 52,
+            "team": "Canada",
+            "player": "Doneil Henry",
+            "type": "goal"
+          },
+          {
+            "minute": 64,
+            "team": "Canada",
+            "player": "Jonathan Osorio",
+            "type": "goal"
+          },
+          {
+            "minute": 78,
+            "team": "Switzerland",
+            "player": "Breel Embolo",
+            "type": "goal"
+          }
+        ]
+      }
+    ],
     "last5_home": [
       "W",
       "W",
@@ -272,7 +551,15 @@
       "L",
       "W",
       "W"
-    ]
+    ],
+    "prediction": {
+      "most_likely_score": "2-0",
+      "alternatives": [
+        "1-0",
+        "2-1",
+        "3-0"
+      ]
+    }
   },
   "1417920": {
     "match": {
@@ -283,7 +570,27 @@
       "status": "NS",
       "tournament": "World Cup 2026"
     },
-    "h2h": [],
+    "h2h": [
+      {
+        "date": "2000-01-24",
+        "home": "Qatar",
+        "away": "Bosnia and Herzegovina",
+        "score": "2-0",
+        "goals": [
+          {
+            "minute": 23,
+            "player": "Ali Zainal",
+            "team": "Qatar"
+          },
+          {
+            "minute": 78,
+            "player": "Mohammed Salem",
+            "team": "Qatar"
+          }
+        ],
+        "winner": "Qatar"
+      }
+    ],
     "last5_home": [
       "L",
       "W",
@@ -297,7 +604,15 @@
       "W",
       "D",
       "L"
-    ]
+    ],
+    "prediction": {
+      "most_likely_score": "1-1",
+      "alternatives": [
+        "1-0",
+        "0-1",
+        "2-1"
+      ]
+    }
   },
   "1417921": {
     "match": {
@@ -308,7 +623,34 @@
       "status": "NS",
       "tournament": "World Cup 2026"
     },
-    "h2h": [],
+    "h2h": [
+      {
+        "date": "2023-03-25",
+        "score": "2-1",
+        "winner": "Morocco",
+        "competition": "Friendly",
+        "events": [
+          {
+            "minute": 29,
+            "team": "Morocco",
+            "player": "Sofiane Boufal",
+            "type": "goal"
+          },
+          {
+            "minute": 67,
+            "team": "Brazil",
+            "player": "Casemiro",
+            "type": "goal"
+          },
+          {
+            "minute": 79,
+            "team": "Morocco",
+            "player": "Abdelhamid Sabiri",
+            "type": "goal"
+          }
+        ]
+      }
+    ],
     "last5_home": [
       "W",
       "W",
@@ -322,7 +664,15 @@
       "W",
       "L",
       "W"
-    ]
+    ],
+    "prediction": {
+      "most_likely_score": "2-1",
+      "alternatives": [
+        "1-1",
+        "2-0",
+        "3-1"
+      ]
+    }
   },
   "1417922": {
     "match": {
@@ -333,7 +683,34 @@
       "status": "NS",
       "tournament": "World Cup 2026"
     },
-    "h2h": [],
+    "h2h": [
+      {
+        "date": "2022-05-30",
+        "score": "2-1",
+        "winner": "Morocco",
+        "competition": "Friendly",
+        "events": [
+          {
+            "minute": 8,
+            "team": "Morocco",
+            "player": "Ayoub El Kaabi",
+            "type": "goal"
+          },
+          {
+            "minute": 42,
+            "team": "Haiti",
+            "player": "Frantzdy Pierrot",
+            "type": "goal"
+          },
+          {
+            "minute": 73,
+            "team": "Morocco",
+            "player": "Azzedine Ounahi",
+            "type": "goal"
+          }
+        ]
+      }
+    ],
     "last5_home": [
       "W",
       "W",
@@ -347,7 +724,15 @@
       "W",
       "D",
       "L"
-    ]
+    ],
+    "prediction": {
+      "most_likely_score": "2-0",
+      "alternatives": [
+        "2-1",
+        "3-0",
+        "1-0"
+      ]
+    }
   },
   "1417923": {
     "match": {
@@ -358,7 +743,28 @@
       "status": "NS",
       "tournament": "World Cup 2026"
     },
-    "h2h": [],
+    "h2h": [
+      {
+        "date": "2013-06-08",
+        "score": "2-0",
+        "winner": "Brazil",
+        "competition": "Friendly",
+        "events": [
+          {
+            "minute": 16,
+            "team": "Brazil",
+            "player": "Neymar",
+            "type": "goal"
+          },
+          {
+            "minute": 58,
+            "team": "Brazil",
+            "player": "Neymar",
+            "type": "goal"
+          }
+        ]
+      }
+    ],
     "last5_home": [
       "W",
       "W",
@@ -372,7 +778,15 @@
       "W",
       "L",
       "W"
-    ]
+    ],
+    "prediction": {
+      "most_likely_score": "3-0",
+      "alternatives": [
+        "2-0",
+        "3-1",
+        "4-0"
+      ]
+    }
   },
   "1417924": {
     "match": {
@@ -383,7 +797,34 @@
       "status": "NS",
       "tournament": "World Cup 2026"
     },
-    "h2h": [],
+    "h2h": [
+      {
+        "date": "1998-06-04",
+        "score": "0-3",
+        "winner": "Morocco",
+        "competition": "Friendly",
+        "events": [
+          {
+            "minute": 23,
+            "team": "Morocco",
+            "player": "Mustapha Hadji",
+            "type": "goal"
+          },
+          {
+            "minute": 51,
+            "team": "Morocco",
+            "player": "Salaheddine Bassir",
+            "type": "goal"
+          },
+          {
+            "minute": 78,
+            "team": "Morocco",
+            "player": "Abdeljalil Hadda",
+            "type": "goal"
+          }
+        ]
+      }
+    ],
     "last5_home": [
       "W",
       "D",
@@ -397,7 +838,15 @@
       "D",
       "W",
       "W"
-    ]
+    ],
+    "prediction": {
+      "most_likely_score": "1-2",
+      "alternatives": [
+        "1-1",
+        "0-1",
+        "2-2"
+      ]
+    }
   },
   "1417925": {
     "match": {
@@ -408,7 +857,34 @@
       "status": "NS",
       "tournament": "World Cup 2026"
     },
-    "h2h": [],
+    "h2h": [
+      {
+        "date": "1998-06-10",
+        "score": "1-2",
+        "winner": "Brazil",
+        "competition": "World Cup",
+        "events": [
+          {
+            "minute": 5,
+            "team": "Scotland",
+            "player": "Tom Boyd",
+            "type": "own_goal"
+          },
+          {
+            "minute": 24,
+            "team": "Brazil",
+            "player": "César Sampaio",
+            "type": "goal"
+          },
+          {
+            "minute": 73,
+            "team": "Scotland",
+            "player": "Tom Boyd",
+            "type": "own_goal"
+          }
+        ]
+      }
+    ],
     "last5_home": [
       "W",
       "D",
@@ -422,7 +898,15 @@
       "W",
       "D",
       "W"
-    ]
+    ],
+    "prediction": {
+      "most_likely_score": "0-2",
+      "alternatives": [
+        "0-1",
+        "1-2",
+        "0-3"
+      ]
+    }
   },
   "1417926": {
     "match": {
@@ -433,7 +917,46 @@
       "status": "NS",
       "tournament": "World Cup 2026"
     },
-    "h2h": [],
+    "h2h": [
+      {
+        "date": "2007-05-22",
+        "score": "1-4",
+        "winner": "Scotland",
+        "competition": "Friendly",
+        "events": [
+          {
+            "minute": 12,
+            "team": "Haiti",
+            "player": "Ricardo Pierre-Louis",
+            "type": "goal"
+          },
+          {
+            "minute": 28,
+            "team": "Scotland",
+            "player": "Kris Boyd",
+            "type": "goal"
+          },
+          {
+            "minute": 41,
+            "team": "Scotland",
+            "player": "James McFadden",
+            "type": "goal"
+          },
+          {
+            "minute": 63,
+            "team": "Scotland",
+            "player": "Kenny Miller",
+            "type": "goal"
+          },
+          {
+            "minute": 77,
+            "team": "Scotland",
+            "player": "Kris Boyd",
+            "type": "goal"
+          }
+        ]
+      }
+    ],
     "last5_home": [
       "L",
       "D",
@@ -447,7 +970,15 @@
       "D",
       "L",
       "W"
-    ]
+    ],
+    "prediction": {
+      "most_likely_score": "0-2",
+      "alternatives": [
+        "0-1",
+        "1-2",
+        "0-3"
+      ]
+    }
   },
   "1417927": {
     "match": {
@@ -458,7 +989,22 @@
       "status": "NS",
       "tournament": "World Cup 2026"
     },
-    "h2h": [],
+    "h2h": [
+      {
+        "date": "2016-06-11",
+        "score": "1-0",
+        "winner": "USA",
+        "competition": "Copa America",
+        "events": [
+          {
+            "minute": 27,
+            "team": "USA",
+            "player": "Clint Dempsey",
+            "type": "goal"
+          }
+        ]
+      }
+    ],
     "last5_home": [
       "L",
       "L",
@@ -472,7 +1018,15 @@
       "W",
       "W",
       "L"
-    ]
+    ],
+    "prediction": {
+      "most_likely_score": "1-1",
+      "alternatives": [
+        "2-1",
+        "1-0",
+        "1-2"
+      ]
+    }
   },
   "1417928": {
     "match": {
@@ -483,7 +1037,22 @@
       "status": "NS",
       "tournament": "World Cup 2026"
     },
-    "h2h": [],
+    "h2h": [
+      {
+        "date": "2005-06-06",
+        "score": "1-0",
+        "winner": "Australia",
+        "competition": "Friendly",
+        "events": [
+          {
+            "minute": 39,
+            "team": "Australia",
+            "player": "Mark Viduka",
+            "type": "goal"
+          }
+        ]
+      }
+    ],
     "last5_home": [
       "W",
       "W",
@@ -497,7 +1066,15 @@
       "D",
       "W",
       "W"
-    ]
+    ],
+    "prediction": {
+      "most_likely_score": "1-2",
+      "alternatives": [
+        "1-1",
+        "0-1",
+        "2-2"
+      ]
+    }
   },
   "1417929": {
     "match": {
@@ -508,7 +1085,22 @@
       "status": "NS",
       "tournament": "World Cup 2026"
     },
-    "h2h": [],
+    "h2h": [
+      {
+        "date": "2003-02-12",
+        "score": "0-1",
+        "winner": "Paraguay",
+        "competition": "Friendly",
+        "events": [
+          {
+            "minute": 54,
+            "team": "Paraguay",
+            "player": "José Cardozo",
+            "type": "goal"
+          }
+        ]
+      }
+    ],
     "last5_home": [
       "W",
       "W",
@@ -522,7 +1114,15 @@
       "W",
       "W",
       "L"
-    ]
+    ],
+    "prediction": {
+      "most_likely_score": "2-0",
+      "alternatives": [
+        "2-1",
+        "1-0",
+        "3-1"
+      ]
+    }
   },
   "1417930": {
     "match": {
@@ -533,7 +1133,40 @@
       "status": "NS",
       "tournament": "World Cup 2026"
     },
-    "h2h": [],
+    "h2h": [
+      {
+        "date": "2010-03-03",
+        "score": "3-1",
+        "winner": "USA",
+        "competition": "Friendly",
+        "events": [
+          {
+            "minute": 12,
+            "team": "USA",
+            "player": "Clint Dempsey",
+            "type": "goal"
+          },
+          {
+            "minute": 44,
+            "team": "USA",
+            "player": "Edson Buddle",
+            "type": "goal"
+          },
+          {
+            "minute": 67,
+            "team": "Australia",
+            "player": "Tim Cahill",
+            "type": "goal"
+          },
+          {
+            "minute": 81,
+            "team": "USA",
+            "player": "Herculez Gomez",
+            "type": "goal"
+          }
+        ]
+      }
+    ],
     "last5_home": [
       "L",
       "L",
@@ -547,7 +1180,15 @@
       "L",
       "W",
       "W"
-    ]
+    ],
+    "prediction": {
+      "most_likely_score": "1-1",
+      "alternatives": [
+        "2-1",
+        "1-2",
+        "0-1"
+      ]
+    }
   },
   "1417931": {
     "match": {
@@ -558,7 +1199,34 @@
       "status": "NS",
       "tournament": "World Cup 2026"
     },
-    "h2h": [],
+    "h2h": [
+      {
+        "date": "2010-05-29",
+        "score": "2-1",
+        "winner": "USA",
+        "competition": "Friendly",
+        "events": [
+          {
+            "minute": 17,
+            "team": "USA",
+            "player": "Clint Dempsey",
+            "type": "goal"
+          },
+          {
+            "minute": 33,
+            "team": "USA",
+            "player": "Jozy Altidore",
+            "type": "goal"
+          },
+          {
+            "minute": 58,
+            "team": "Turkey",
+            "player": "Semih Şentürk",
+            "type": "goal"
+          }
+        ]
+      }
+    ],
     "last5_home": [
       "W",
       "W",
@@ -572,7 +1240,15 @@
       "W",
       "W",
       "W"
-    ]
+    ],
+    "prediction": {
+      "most_likely_score": "2-1",
+      "alternatives": [
+        "1-1",
+        "2-0",
+        "3-1"
+      ]
+    }
   },
   "1417932": {
     "match": {
@@ -583,7 +1259,34 @@
       "status": "NS",
       "tournament": "World Cup 2026"
     },
-    "h2h": [],
+    "h2h": [
+      {
+        "date": "2005-03-26",
+        "score": "1-2",
+        "winner": "Paraguay",
+        "competition": "Friendly",
+        "events": [
+          {
+            "minute": 22,
+            "team": "Australia",
+            "player": "Mark Viduka",
+            "type": "goal"
+          },
+          {
+            "minute": 51,
+            "team": "Paraguay",
+            "player": "Julio dos Santos",
+            "type": "goal"
+          },
+          {
+            "minute": 78,
+            "team": "Paraguay",
+            "player": "Roque Santa Cruz",
+            "type": "goal"
+          }
+        ]
+      }
+    ],
     "last5_home": [
       "L",
       "W",
@@ -597,7 +1300,15 @@
       "L",
       "W",
       "W"
-    ]
+    ],
+    "prediction": {
+      "most_likely_score": "1-1",
+      "alternatives": [
+        "1-0",
+        "0-1",
+        "2-1"
+      ]
+    }
   },
   "1417933": {
     "match": {
@@ -622,7 +1333,15 @@
       "L",
       "W",
       "D"
-    ]
+    ],
+    "prediction": {
+      "most_likely_score": "3-0",
+      "alternatives": [
+        "2-0",
+        "4-0",
+        "3-1"
+      ]
+    }
   },
   "1417934": {
     "match": {
@@ -633,7 +1352,40 @@
       "status": "NS",
       "tournament": "World Cup 2026"
     },
-    "h2h": [],
+    "h2h": [
+      {
+        "date": "2014-06-07",
+        "score": "2-2",
+        "winner": "Draw",
+        "competition": "Friendly",
+        "events": [
+          {
+            "minute": 21,
+            "team": "Ivory Coast",
+            "player": "Didier Drogba",
+            "type": "goal"
+          },
+          {
+            "minute": 33,
+            "team": "Ecuador",
+            "player": "Enner Valencia",
+            "type": "goal"
+          },
+          {
+            "minute": 55,
+            "team": "Ivory Coast",
+            "player": "Max Gradel",
+            "type": "goal"
+          },
+          {
+            "minute": 78,
+            "team": "Ecuador",
+            "player": "Felipe Caicedo",
+            "type": "goal"
+          }
+        ]
+      }
+    ],
     "last5_home": [
       "W",
       "W",
@@ -647,7 +1399,15 @@
       "W",
       "L",
       "D"
-    ]
+    ],
+    "prediction": {
+      "most_likely_score": "1-1",
+      "alternatives": [
+        "2-1",
+        "1-0",
+        "0-1"
+      ]
+    }
   },
   "1417935": {
     "match": {
@@ -672,7 +1432,15 @@
       "L",
       "W",
       "D"
-    ]
+    ],
+    "prediction": {
+      "most_likely_score": "2-0",
+      "alternatives": [
+        "1-0",
+        "2-1",
+        "3-0"
+      ]
+    }
   },
   "1417936": {
     "match": {
@@ -683,7 +1451,40 @@
       "status": "NS",
       "tournament": "World Cup 2026"
     },
-    "h2h": [],
+    "h2h": [
+      {
+        "date": "2009-03-29",
+        "score": "2-2",
+        "winner": "Draw",
+        "competition": "Friendly",
+        "events": [
+          {
+            "minute": 12,
+            "team": "Germany",
+            "player": "Mario Gómez",
+            "type": "goal"
+          },
+          {
+            "minute": 25,
+            "team": "Ivory Coast",
+            "player": "Didier Drogba",
+            "type": "goal"
+          },
+          {
+            "minute": 54,
+            "team": "Germany",
+            "player": "Miroslav Klose",
+            "type": "goal"
+          },
+          {
+            "minute": 78,
+            "team": "Ivory Coast",
+            "player": "Yaya Touré",
+            "type": "goal"
+          }
+        ]
+      }
+    ],
     "last5_home": [
       "W",
       "D",
@@ -697,7 +1498,15 @@
       "D",
       "L",
       "W"
-    ]
+    ],
+    "prediction": {
+      "most_likely_score": "2-0",
+      "alternatives": [
+        "2-1",
+        "3-0",
+        "1-0"
+      ]
+    }
   },
   "1417937": {
     "match": {
@@ -712,7 +1521,27 @@
       {
         "date": "2006-06-20",
         "score": "3-0",
-        "winner": "Germany"
+        "winner": "Germany",
+        "events": [
+          {
+            "minute": 12,
+            "team": "Germany",
+            "player": "Miroslav Klose",
+            "type": "goal"
+          },
+          {
+            "minute": 44,
+            "team": "Germany",
+            "player": "Michael Ballack",
+            "type": "goal"
+          },
+          {
+            "minute": 81,
+            "team": "Germany",
+            "player": "Lukas Podolski",
+            "type": "goal"
+          }
+        ]
       }
     ],
     "last5_home": [
@@ -728,7 +1557,15 @@
       "W",
       "L",
       "W"
-    ]
+    ],
+    "prediction": {
+      "most_likely_score": "1-2",
+      "alternatives": [
+        "0-2",
+        "1-1",
+        "2-2"
+      ]
+    }
   },
   "1417938": {
     "match": {
@@ -753,7 +1590,15 @@
       "D",
       "L",
       "W"
-    ]
+    ],
+    "prediction": {
+      "most_likely_score": "0-2",
+      "alternatives": [
+        "0-1",
+        "1-2",
+        "0-3"
+      ]
+    }
   },
   "1417939": {
     "match": {
@@ -766,9 +1611,24 @@
     },
     "h2h": [
       {
-        "date": "2009-09-05",
-        "score": "3-0",
-        "winner": "Netherlands"
+        "date": "2022-11-17",
+        "score": "0-2",
+        "winner": "Japan",
+        "competition": "Friendly",
+        "events": [
+          {
+            "minute": 32,
+            "team": "Japan",
+            "player": "Ayase Ueda",
+            "type": "goal"
+          },
+          {
+            "minute": 76,
+            "team": "Japan",
+            "player": "Kaoru Mitoma",
+            "type": "goal"
+          }
+        ]
       }
     ],
     "last5_home": [
@@ -784,7 +1644,15 @@
       "D",
       "L",
       "W"
-    ]
+    ],
+    "prediction": {
+      "most_likely_score": "2-1",
+      "alternatives": [
+        "1-1",
+        "2-0",
+        "3-1"
+      ]
+    }
   },
   "1417940": {
     "match": {
@@ -799,7 +1667,21 @@
       {
         "date": "2002-06-02",
         "score": "1-1",
-        "winner": "Draw"
+        "winner": "Draw",
+        "events": [
+          {
+            "minute": 38,
+            "team": "Tunisia",
+            "player": "Radhi Jaïdi",
+            "type": "goal"
+          },
+          {
+            "minute": 66,
+            "team": "Sweden",
+            "player": "Henrik Larsson",
+            "type": "goal"
+          }
+        ]
       }
     ],
     "last5_home": [
@@ -815,7 +1697,15 @@
       "W",
       "L",
       "D"
-    ]
+    ],
+    "prediction": {
+      "most_likely_score": "1-0",
+      "alternatives": [
+        "1-1",
+        "2-0",
+        "0-0"
+      ]
+    }
   },
   "1417941": {
     "match": {
@@ -830,7 +1720,21 @@
       {
         "date": "2023-10-17",
         "score": "2-0",
-        "winner": "Japan"
+        "winner": "Japan",
+        "events": [
+          {
+            "minute": 33,
+            "team": "Japan",
+            "player": "Kaoru Mitoma",
+            "type": "goal"
+          },
+          {
+            "minute": 71,
+            "team": "Japan",
+            "player": "Takumi Minamino",
+            "type": "goal"
+          }
+        ]
       }
     ],
     "last5_home": [
@@ -846,7 +1750,15 @@
       "D",
       "L",
       "W"
-    ]
+    ],
+    "prediction": {
+      "most_likely_score": "0-2",
+      "alternatives": [
+        "0-1",
+        "1-2",
+        "0-3"
+      ]
+    }
   },
   "1417942": {
     "match": {
@@ -861,7 +1773,39 @@
       {
         "date": "2011-10-11",
         "score": "3-2",
-        "winner": "Sweden"
+        "winner": "Sweden",
+        "events": [
+          {
+            "minute": 12,
+            "team": "Sweden",
+            "player": "Zlatan Ibrahimović",
+            "type": "goal"
+          },
+          {
+            "minute": 41,
+            "team": "Netherlands",
+            "player": "Robin van Persie",
+            "type": "goal"
+          },
+          {
+            "minute": 67,
+            "team": "Sweden",
+            "player": "Zlatan Ibrahimović",
+            "type": "goal"
+          },
+          {
+            "minute": 75,
+            "team": "Netherlands",
+            "player": "Arjen Robben",
+            "type": "goal"
+          },
+          {
+            "minute": 88,
+            "team": "Sweden",
+            "player": "Kim Källström",
+            "type": "goal"
+          }
+        ]
       }
     ],
     "last5_home": [
@@ -877,7 +1821,15 @@
       "L",
       "W",
       "D"
-    ]
+    ],
+    "prediction": {
+      "most_likely_score": "2-1",
+      "alternatives": [
+        "1-1",
+        "2-2",
+        "3-1"
+      ]
+    }
   },
   "1417943": {
     "match": {
@@ -888,7 +1840,22 @@
       "status": "NS",
       "tournament": "World Cup 2026"
     },
-    "h2h": [],
+    "h2h": [
+      {
+        "date": "1978-06-25",
+        "score": "0-1",
+        "winner": "Netherlands",
+        "competition": "World Cup",
+        "events": [
+          {
+            "minute": 70,
+            "team": "Netherlands",
+            "player": "Johnny Rep",
+            "type": "goal"
+          }
+        ]
+      }
+    ],
     "last5_home": [
       "L",
       "D",
@@ -902,7 +1869,15 @@
       "W",
       "W",
       "L"
-    ]
+    ],
+    "prediction": {
+      "most_likely_score": "0-2",
+      "alternatives": [
+        "0-1",
+        "1-2",
+        "0-3"
+      ]
+    }
   },
   "1417944": {
     "match": {
@@ -917,7 +1892,27 @@
       {
         "date": "2023-08-11",
         "score": "2-1",
-        "winner": "Sweden"
+        "winner": "Sweden",
+        "events": [
+          {
+            "minute": 19,
+            "team": "Sweden",
+            "player": "Alexander Isak",
+            "type": "goal"
+          },
+          {
+            "minute": 61,
+            "team": "Japan",
+            "player": "Daichi Kamada",
+            "type": "goal"
+          },
+          {
+            "minute": 84,
+            "team": "Sweden",
+            "player": "Emil Forsberg",
+            "type": "goal"
+          }
+        ]
       }
     ],
     "last5_home": [
@@ -933,7 +1928,15 @@
       "L",
       "W",
       "D"
-    ]
+    ],
+    "prediction": {
+      "most_likely_score": "1-1",
+      "alternatives": [
+        "2-1",
+        "1-2",
+        "0-1"
+      ]
+    }
   },
   "1417945": {
     "match": {
@@ -948,7 +1951,27 @@
       {
         "date": "2022-11-18",
         "score": "2-1",
-        "winner": "Egypt"
+        "winner": "Egypt",
+        "events": [
+          {
+            "minute": 23,
+            "team": "Egypt",
+            "player": "Mohamed Salah",
+            "type": "goal"
+          },
+          {
+            "minute": 55,
+            "team": "Belgium",
+            "player": "Kevin De Bruyne",
+            "type": "goal"
+          },
+          {
+            "minute": 78,
+            "team": "Egypt",
+            "player": "Trezeguet",
+            "type": "goal"
+          }
+        ]
       }
     ],
     "last5_home": [
@@ -964,7 +1987,15 @@
       "D",
       "W",
       "L"
-    ]
+    ],
+    "prediction": {
+      "most_likely_score": "2-1",
+      "alternatives": [
+        "2-0",
+        "1-1",
+        "3-1"
+      ]
+    }
   },
   "1417946": {
     "match": {
@@ -975,7 +2006,34 @@
       "status": "NS",
       "tournament": "World Cup 2026"
     },
-    "h2h": [],
+    "h2h": [
+      {
+        "date": "2003-10-12",
+        "score": "3-0",
+        "winner": "Iran",
+        "competition": "Friendly",
+        "events": [
+          {
+            "minute": 15,
+            "team": "Iran",
+            "player": "Ali Daei",
+            "type": "goal"
+          },
+          {
+            "minute": 44,
+            "team": "Iran",
+            "player": "Player 2",
+            "type": "goal"
+          },
+          {
+            "minute": 78,
+            "team": "Iran",
+            "player": "Player 3",
+            "type": "goal"
+          }
+        ]
+      }
+    ],
     "last5_home": [
       "W",
       "D",
@@ -989,7 +2047,15 @@
       "L",
       "D",
       "W"
-    ]
+    ],
+    "prediction": {
+      "most_likely_score": "2-0",
+      "alternatives": [
+        "1-0",
+        "2-1",
+        "3-0"
+      ]
+    }
   },
   "1417947": {
     "match": {
@@ -1000,7 +2066,22 @@
       "status": "NS",
       "tournament": "World Cup 2026"
     },
-    "h2h": [],
+    "h2h": [
+      {
+        "date": "2024-03-22",
+        "score": "1-0",
+        "winner": "Egypt",
+        "competition": "Friendly",
+        "events": [
+          {
+            "minute": 29,
+            "team": "Egypt",
+            "player": "Mostafa Mohamed",
+            "type": "goal"
+          }
+        ]
+      }
+    ],
     "last5_home": [
       "D",
       "W",
@@ -1014,7 +2095,15 @@
       "D",
       "W",
       "L"
-    ]
+    ],
+    "prediction": {
+      "most_likely_score": "0-2",
+      "alternatives": [
+        "0-1",
+        "1-2",
+        "1-1"
+      ]
+    }
   },
   "1417948": {
     "match": {
@@ -1039,7 +2128,15 @@
       "L",
       "W",
       "W"
-    ]
+    ],
+    "prediction": {
+      "most_likely_score": "2-0",
+      "alternatives": [
+        "2-1",
+        "3-0",
+        "1-0"
+      ]
+    }
   },
   "1417949": {
     "match": {
@@ -1050,7 +2147,22 @@
       "status": "NS",
       "tournament": "World Cup 2026"
     },
-    "h2h": [],
+    "h2h": [
+      {
+        "date": "2010-06-19",
+        "score": "1-0",
+        "winner": "Netherlands",
+        "competition": "World Cup",
+        "events": [
+          {
+            "minute": 53,
+            "team": "Netherlands",
+            "player": "Wesley Sneijder",
+            "type": "goal"
+          }
+        ]
+      }
+    ],
     "last5_home": [
       "D",
       "W",
@@ -1064,7 +2176,15 @@
       "L",
       "D",
       "W"
-    ]
+    ],
+    "prediction": {
+      "most_likely_score": "0-2",
+      "alternatives": [
+        "0-1",
+        "1-2",
+        "1-3"
+      ]
+    }
   },
   "1417950": {
     "match": {
@@ -1079,7 +2199,15 @@
       {
         "date": "1977-09-04",
         "score": "1-0",
-        "winner": "Iran"
+        "winner": "Iran",
+        "events": [
+          {
+            "minute": 63,
+            "team": "Iran",
+            "player": "Ali Parvin",
+            "type": "goal"
+          }
+        ]
       }
     ],
     "last5_home": [
@@ -1095,7 +2223,15 @@
       "L",
       "W",
       "W"
-    ]
+    ],
+    "prediction": {
+      "most_likely_score": "1-1",
+      "alternatives": [
+        "0-1",
+        "1-2",
+        "2-1"
+      ]
+    }
   },
   "1417951": {
     "match": {
@@ -1120,7 +2256,15 @@
       "W",
       "L",
       "D"
-    ]
+    ],
+    "prediction": {
+      "most_likely_score": "3-0",
+      "alternatives": [
+        "2-0",
+        "4-0",
+        "3-1"
+      ]
+    }
   },
   "1417952": {
     "match": {
@@ -1135,7 +2279,27 @@
       {
         "date": "2022-11-22",
         "score": "2-1",
-        "winner": "Saudi Arabia"
+        "winner": "Saudi Arabia",
+        "events": [
+          {
+            "minute": 48,
+            "team": "Saudi Arabia",
+            "player": "Saleh Al-Shehri",
+            "type": "goal"
+          },
+          {
+            "minute": 53,
+            "team": "Saudi Arabia",
+            "player": "Salem Al-Dawsari",
+            "type": "goal"
+          },
+          {
+            "minute": 65,
+            "team": "Uruguay",
+            "player": "Luis Suárez",
+            "type": "goal"
+          }
+        ]
       }
     ],
     "last5_home": [
@@ -1151,7 +2315,15 @@
       "D",
       "L",
       "W"
-    ]
+    ],
+    "prediction": {
+      "most_likely_score": "0-2",
+      "alternatives": [
+        "1-2",
+        "0-1",
+        "1-1"
+      ]
+    }
   },
   "1417953": {
     "match": {
@@ -1176,7 +2348,15 @@
       "W",
       "L",
       "D"
-    ]
+    ],
+    "prediction": {
+      "most_likely_score": "2-0",
+      "alternatives": [
+        "2-1",
+        "3-0",
+        "1-0"
+      ]
+    }
   },
   "1417954": {
     "match": {
@@ -1187,7 +2367,28 @@
       "status": "NS",
       "tournament": "World Cup 2026"
     },
-    "h2h": [],
+    "h2h": [
+      {
+        "date": "2022-11-22",
+        "score": "1-1",
+        "winner": "Draw",
+        "competition": "World Cup",
+        "events": [
+          {
+            "minute": 17,
+            "team": "Spain",
+            "player": "Alvaro Morata",
+            "type": "goal"
+          },
+          {
+            "minute": 48,
+            "team": "Saudi Arabia",
+            "player": "Saleh Al-Shehri",
+            "type": "goal"
+          }
+        ]
+      }
+    ],
     "last5_home": [
       "W",
       "W",
@@ -1201,7 +2402,15 @@
       "D",
       "W",
       "L"
-    ]
+    ],
+    "prediction": {
+      "most_likely_score": "3-0",
+      "alternatives": [
+        "2-0",
+        "3-1",
+        "4-0"
+      ]
+    }
   },
   "1417955": {
     "match": {
@@ -1214,9 +2423,30 @@
     },
     "h2h": [
       {
-        "date": "2022-09-23",
-        "score": "0-0",
-        "winner": "Draw"
+        "date": "2013-02-06",
+        "score": "2-1",
+        "winner": "Spain",
+        "competition": "Friendly",
+        "events": [
+          {
+            "minute": 12,
+            "team": "Spain",
+            "player": "Pedro",
+            "type": "goal"
+          },
+          {
+            "minute": 38,
+            "team": "Spain",
+            "player": "Cesc Fàbregas",
+            "type": "goal"
+          },
+          {
+            "minute": 67,
+            "team": "Uruguay",
+            "player": "Luis Suárez",
+            "type": "goal"
+          }
+        ]
       }
     ],
     "last5_home": [
@@ -1232,7 +2462,15 @@
       "D",
       "W",
       "W"
-    ]
+    ],
+    "prediction": {
+      "most_likely_score": "1-1",
+      "alternatives": [
+        "0-1",
+        "1-2",
+        "2-1"
+      ]
+    }
   },
   "1417956": {
     "match": {
@@ -1257,7 +2495,15 @@
       "D",
       "W",
       "L"
-    ]
+    ],
+    "prediction": {
+      "most_likely_score": "1-1",
+      "alternatives": [
+        "0-1",
+        "1-2",
+        "2-1"
+      ]
+    }
   },
   "1417957": {
     "match": {
@@ -1272,7 +2518,15 @@
       {
         "date": "2002-05-31",
         "score": "1-0",
-        "winner": "Senegal"
+        "winner": "Senegal",
+        "events": [
+          {
+            "minute": 30,
+            "team": "Senegal",
+            "player": "Papa Bouba Diop",
+            "type": "goal"
+          }
+        ]
       }
     ],
     "last5_home": [
@@ -1288,7 +2542,15 @@
       "W",
       "L",
       "W"
-    ]
+    ],
+    "prediction": {
+      "most_likely_score": "2-1",
+      "alternatives": [
+        "1-1",
+        "2-0",
+        "3-1"
+      ]
+    }
   },
   "1417958": {
     "match": {
@@ -1313,7 +2575,15 @@
       "D",
       "L",
       "W"
-    ]
+    ],
+    "prediction": {
+      "most_likely_score": "0-2",
+      "alternatives": [
+        "1-2",
+        "0-1",
+        "1-1"
+      ]
+    }
   },
   "1417959": {
     "match": {
@@ -1324,7 +2594,34 @@
       "status": "NS",
       "tournament": "World Cup 2026"
     },
-    "h2h": [],
+    "h2h": [
+      {
+        "date": "2002-03-27",
+        "score": "2-1",
+        "winner": "Norway",
+        "competition": "Friendly",
+        "events": [
+          {
+            "minute": 20,
+            "team": "Norway",
+            "player": "John Carew",
+            "type": "goal"
+          },
+          {
+            "minute": 55,
+            "team": "Senegal",
+            "player": "El Hadji Diouf",
+            "type": "goal"
+          },
+          {
+            "minute": 78,
+            "team": "Norway",
+            "player": "Ole Gunnar Solskjær",
+            "type": "goal"
+          }
+        ]
+      }
+    ],
     "last5_home": [
       "W",
       "W",
@@ -1338,7 +2635,15 @@
       "W",
       "L",
       "W"
-    ]
+    ],
+    "prediction": {
+      "most_likely_score": "1-1",
+      "alternatives": [
+        "2-1",
+        "1-2",
+        "0-1"
+      ]
+    }
   },
   "1417960": {
     "match": {
@@ -1363,7 +2668,15 @@
       "L",
       "D",
       "W"
-    ]
+    ],
+    "prediction": {
+      "most_likely_score": "3-0",
+      "alternatives": [
+        "2-0",
+        "3-1",
+        "4-0"
+      ]
+    }
   },
   "1417961": {
     "match": {
@@ -1378,7 +2691,27 @@
       {
         "date": "1998-06-27",
         "score": "2-1",
-        "winner": "Norway"
+        "winner": "Norway",
+        "events": [
+          {
+            "minute": 14,
+            "team": "Norway",
+            "player": "Tore André Flo",
+            "type": "goal"
+          },
+          {
+            "minute": 52,
+            "team": "France",
+            "player": "Zinedine Zidane",
+            "type": "goal"
+          },
+          {
+            "minute": 79,
+            "team": "Norway",
+            "player": "Kjetil Rekdal",
+            "type": "goal"
+          }
+        ]
       }
     ],
     "last5_home": [
@@ -1394,7 +2727,15 @@
       "D",
       "W",
       "W"
-    ]
+    ],
+    "prediction": {
+      "most_likely_score": "1-2",
+      "alternatives": [
+        "1-1",
+        "0-2",
+        "2-2"
+      ]
+    }
   },
   "1417962": {
     "match": {
@@ -1419,7 +2760,15 @@
       "L",
       "D",
       "W"
-    ]
+    ],
+    "prediction": {
+      "most_likely_score": "2-0",
+      "alternatives": [
+        "2-1",
+        "1-0",
+        "3-0"
+      ]
+    }
   },
   "1417963": {
     "match": {
@@ -1434,7 +2783,51 @@
       {
         "date": "2007-11-18",
         "score": "4-3",
-        "winner": "Argentina"
+        "winner": "Argentina",
+        "events": [
+          {
+            "minute": 11,
+            "team": "Argentina",
+            "player": "Lionel Messi",
+            "type": "goal"
+          },
+          {
+            "minute": 25,
+            "team": "Algeria",
+            "player": "Rafik Saïfi",
+            "type": "goal"
+          },
+          {
+            "minute": 33,
+            "team": "Argentina",
+            "player": "Carlos Tevez",
+            "type": "goal"
+          },
+          {
+            "minute": 41,
+            "team": "Algeria",
+            "player": "Karim Ziani",
+            "type": "goal"
+          },
+          {
+            "minute": 58,
+            "team": "Argentina",
+            "player": "Sergio Agüero",
+            "type": "goal"
+          },
+          {
+            "minute": 72,
+            "team": "Algeria",
+            "player": "Rafik Saïfi",
+            "type": "goal"
+          },
+          {
+            "minute": 88,
+            "team": "Argentina",
+            "player": "Lionel Messi",
+            "type": "goal"
+          }
+        ]
       }
     ],
     "last5_home": [
@@ -1450,7 +2843,15 @@
       "D",
       "W",
       "L"
-    ]
+    ],
+    "prediction": {
+      "most_likely_score": "3-1",
+      "alternatives": [
+        "2-1",
+        "3-0",
+        "4-1"
+      ]
+    }
   },
   "1417964": {
     "match": {
@@ -1465,12 +2866,39 @@
       {
         "date": "2013-11-15",
         "score": "5-0",
-        "winner": "Austria"
-      },
-      {
-        "date": "2013-11-19",
-        "score": "0-0",
-        "winner": "Draw"
+        "winner": "Austria",
+        "events": [
+          {
+            "minute": 9,
+            "team": "Austria",
+            "player": "Marko Arnautović",
+            "type": "goal"
+          },
+          {
+            "minute": 27,
+            "team": "Austria",
+            "player": "David Alaba",
+            "type": "goal"
+          },
+          {
+            "minute": 44,
+            "team": "Austria",
+            "player": "Marko Arnautović",
+            "type": "goal"
+          },
+          {
+            "minute": 63,
+            "team": "Austria",
+            "player": "Stefan Ilsanker",
+            "type": "goal"
+          },
+          {
+            "minute": 78,
+            "team": "Austria",
+            "player": "Marko Arnautović",
+            "type": "goal"
+          }
+        ]
       }
     ],
     "last5_home": [
@@ -1486,7 +2914,15 @@
       "D",
       "L",
       "W"
-    ]
+    ],
+    "prediction": {
+      "most_likely_score": "2-0",
+      "alternatives": [
+        "3-0",
+        "2-1",
+        "1-0"
+      ]
+    }
   },
   "1417965": {
     "match": {
@@ -1497,7 +2933,22 @@
       "status": "NS",
       "tournament": "World Cup 2026"
     },
-    "h2h": [],
+    "h2h": [
+      {
+        "date": "2015-03-30",
+        "score": "1-0",
+        "winner": "Algeria",
+        "competition": "Friendly",
+        "events": [
+          {
+            "minute": 67,
+            "team": "Algeria",
+            "player": "Baghdad Bounedjah",
+            "type": "goal"
+          }
+        ]
+      }
+    ],
     "last5_home": [
       "W",
       "W",
@@ -1511,7 +2962,15 @@
       "D",
       "W",
       "L"
-    ]
+    ],
+    "prediction": {
+      "most_likely_score": "1-2",
+      "alternatives": [
+        "1-1",
+        "0-2",
+        "2-2"
+      ]
+    }
   },
   "1417966": {
     "match": {
@@ -1526,7 +2985,27 @@
       {
         "date": "1978-06-18",
         "score": "2-1",
-        "winner": "Argentina"
+        "winner": "Argentina",
+        "events": [
+          {
+            "minute": 18,
+            "team": "Argentina",
+            "player": "Mario Kempes",
+            "type": "goal"
+          },
+          {
+            "minute": 60,
+            "team": "Austria",
+            "player": "Hans Krankl",
+            "type": "goal"
+          },
+          {
+            "minute": 74,
+            "team": "Argentina",
+            "player": "Mario Kempes",
+            "type": "goal"
+          }
+        ]
       }
     ],
     "last5_home": [
@@ -1542,7 +3021,15 @@
       "W",
       "L",
       "W"
-    ]
+    ],
+    "prediction": {
+      "most_likely_score": "2-0",
+      "alternatives": [
+        "2-1",
+        "3-0",
+        "1-0"
+      ]
+    }
   },
   "1417967": {
     "match": {
@@ -1557,7 +3044,27 @@
       {
         "date": "2015-09-08",
         "score": "3-0",
-        "winner": "Argentina"
+        "winner": "Argentina",
+        "events": [
+          {
+            "minute": 12,
+            "team": "Argentina",
+            "player": "Lionel Messi",
+            "type": "goal"
+          },
+          {
+            "minute": 55,
+            "team": "Argentina",
+            "player": "Ángel Di María",
+            "type": "goal"
+          },
+          {
+            "minute": 81,
+            "team": "Argentina",
+            "player": "Sergio Agüero",
+            "type": "goal"
+          }
+        ]
       }
     ],
     "last5_home": [
@@ -1573,7 +3080,15 @@
       "W",
       "D",
       "W"
-    ]
+    ],
+    "prediction": {
+      "most_likely_score": "0-3",
+      "alternatives": [
+        "0-2",
+        "1-3",
+        "0-4"
+      ]
+    }
   },
   "1417968": {
     "match": {
@@ -1588,7 +3103,21 @@
       {
         "date": "1982-06-16",
         "score": "2-0",
-        "winner": "Algeria"
+        "winner": "Algeria",
+        "events": [
+          {
+            "minute": 27,
+            "team": "Algeria",
+            "player": "Lakhdar Belloumi",
+            "type": "goal"
+          },
+          {
+            "minute": 74,
+            "team": "Algeria",
+            "player": "Rabah Madjer",
+            "type": "goal"
+          }
+        ]
       }
     ],
     "last5_home": [
@@ -1604,7 +3133,15 @@
       "W",
       "L",
       "W"
-    ]
+    ],
+    "prediction": {
+      "most_likely_score": "1-1",
+      "alternatives": [
+        "1-2",
+        "2-1",
+        "0-1"
+      ]
+    }
   },
   "1417969": {
     "match": {
@@ -1615,7 +3152,15 @@
       "status": "NS",
       "tournament": "World Cup 2026"
     },
-    "h2h": [],
+    "h2h": [
+      {
+        "date": "2018-05-29",
+        "score": "0-0",
+        "winner": "Draw",
+        "competition": "Friendly",
+        "events": []
+      }
+    ],
     "last5_home": [
       "W",
       "W",
@@ -1629,7 +3174,15 @@
       "W",
       "L",
       "W"
-    ]
+    ],
+    "prediction": {
+      "most_likely_score": "2-0",
+      "alternatives": [
+        "3-0",
+        "2-1",
+        "1-0"
+      ]
+    }
   },
   "1417970": {
     "match": {
@@ -1640,7 +3193,28 @@
       "status": "NS",
       "tournament": "World Cup 2026"
     },
-    "h2h": [],
+    "h2h": [
+      {
+        "date": "1997-06-07",
+        "score": "1-1",
+        "winner": "Draw",
+        "competition": "Friendly",
+        "events": [
+          {
+            "minute": 33,
+            "team": "Colombia",
+            "player": "Leider Preciado",
+            "type": "goal"
+          },
+          {
+            "minute": 71,
+            "team": "Uzbekistan",
+            "player": "Igor Shkvyrin",
+            "type": "goal"
+          }
+        ]
+      }
+    ],
     "last5_home": [
       "W",
       "D",
@@ -1654,7 +3228,15 @@
       "D",
       "W",
       "W"
-    ]
+    ],
+    "prediction": {
+      "most_likely_score": "0-2",
+      "alternatives": [
+        "1-2",
+        "0-1",
+        "1-1"
+      ]
+    }
   },
   "1417971": {
     "match": {
@@ -1679,7 +3261,15 @@
       "W",
       "L",
       "W"
-    ]
+    ],
+    "prediction": {
+      "most_likely_score": "2-0",
+      "alternatives": [
+        "2-1",
+        "1-0",
+        "3-0"
+      ]
+    }
   },
   "1417972": {
     "match": {
@@ -1704,7 +3294,15 @@
       "W",
       "L",
       "D"
-    ]
+    ],
+    "prediction": {
+      "most_likely_score": "2-0",
+      "alternatives": [
+        "3-0",
+        "2-1",
+        "1-0"
+      ]
+    }
   },
   "1417973": {
     "match": {
@@ -1719,7 +3317,33 @@
       {
         "date": "2018-06-07",
         "score": "3-1",
-        "winner": "Portugal"
+        "winner": "Portugal",
+        "events": [
+          {
+            "minute": 16,
+            "team": "Portugal",
+            "player": "Cristiano Ronaldo",
+            "type": "goal"
+          },
+          {
+            "minute": 39,
+            "team": "Portugal",
+            "player": "Bernardo Silva",
+            "type": "goal"
+          },
+          {
+            "minute": 63,
+            "team": "Colombia",
+            "player": "James Rodríguez",
+            "type": "goal"
+          },
+          {
+            "minute": 88,
+            "team": "Portugal",
+            "player": "Cristiano Ronaldo",
+            "type": "goal"
+          }
+        ]
       }
     ],
     "last5_home": [
@@ -1735,7 +3359,15 @@
       "D",
       "W",
       "L"
-    ]
+    ],
+    "prediction": {
+      "most_likely_score": "1-2",
+      "alternatives": [
+        "1-1",
+        "2-2",
+        "0-1"
+      ]
+    }
   },
   "1417974": {
     "match": {
@@ -1760,7 +3392,15 @@
       "W",
       "L",
       "D"
-    ]
+    ],
+    "prediction": {
+      "most_likely_score": "1-1",
+      "alternatives": [
+        "2-1",
+        "1-0",
+        "0-1"
+      ]
+    }
   },
   "1417975": {
     "match": {
@@ -1771,7 +3411,15 @@
       "status": "NS",
       "tournament": "World Cup 2026"
     },
-    "h2h": [],
+    "h2h": [
+      {
+        "date": "2014-03-05",
+        "score": "0-0",
+        "winner": "Draw",
+        "competition": "Friendly",
+        "events": []
+      }
+    ],
     "last5_home": [
       "W",
       "D",
@@ -1785,7 +3433,15 @@
       "L",
       "D",
       "W"
-    ]
+    ],
+    "prediction": {
+      "most_likely_score": "1-1",
+      "alternatives": [
+        "2-1",
+        "1-0",
+        "0-1"
+      ]
+    }
   },
   "1417976": {
     "match": {
@@ -1800,7 +3456,21 @@
       {
         "date": "2017-06-01",
         "score": "1-1",
-        "winner": "Draw"
+        "winner": "Draw",
+        "events": [
+          {
+            "minute": 33,
+            "team": "Panama",
+            "player": "Gabriel Torres",
+            "type": "goal"
+          },
+          {
+            "minute": 70,
+            "team": "Croatia",
+            "player": "Mario Mandžukić",
+            "type": "goal"
+          }
+        ]
       }
     ],
     "last5_home": [
@@ -1816,7 +3486,15 @@
       "W",
       "L",
       "W"
-    ]
+    ],
+    "prediction": {
+      "most_likely_score": "0-2",
+      "alternatives": [
+        "0-1",
+        "1-2",
+        "1-1"
+      ]
+    }
   },
   "1417977": {
     "match": {
@@ -1831,7 +3509,21 @@
       {
         "date": "2011-03-29",
         "score": "1-1",
-        "winner": "Draw"
+        "winner": "Draw",
+        "events": [
+          {
+            "minute": 42,
+            "team": "Ghana",
+            "player": "Asamoah Gyan",
+            "type": "goal"
+          },
+          {
+            "minute": 81,
+            "team": "England",
+            "player": "Wayne Rooney",
+            "type": "goal"
+          }
+        ]
       }
     ],
     "last5_home": [
@@ -1847,7 +3539,15 @@
       "W",
       "L",
       "W"
-    ]
+    ],
+    "prediction": {
+      "most_likely_score": "2-0",
+      "alternatives": [
+        "1-0",
+        "2-1",
+        "1-1"
+      ]
+    }
   },
   "1417978": {
     "match": {
@@ -1862,7 +3562,57 @@
       {
         "date": "2018-06-24",
         "score": "1-6",
-        "winner": "England"
+        "winner": "England",
+        "events": [
+          {
+            "minute": 41,
+            "team": "Panama",
+            "player": "Felipe Baloy",
+            "type": "goal"
+          },
+          {
+            "minute": 8,
+            "team": "England",
+            "player": "John Stones",
+            "type": "goal"
+          },
+          {
+            "minute": 22,
+            "team": "England",
+            "player": "Harry Kane",
+            "type": "goal"
+          },
+          {
+            "minute": 36,
+            "team": "England",
+            "player": "Harry Kane",
+            "type": "goal"
+          },
+          {
+            "minute": 45,
+            "team": "England",
+            "player": "John Stones",
+            "type": "goal"
+          },
+          {
+            "minute": 45,
+            "team": "England",
+            "player": "Harry Kane",
+            "type": "goal"
+          },
+          {
+            "minute": 62,
+            "team": "England",
+            "player": "Jesse Lingard",
+            "type": "goal"
+          },
+          {
+            "minute": 78,
+            "team": "England",
+            "player": "Harry Kane",
+            "type": "goal"
+          }
+        ]
       }
     ],
     "last5_home": [
@@ -1878,7 +3628,15 @@
       "W",
       "W",
       "W"
-    ]
+    ],
+    "prediction": {
+      "most_likely_score": "0-3",
+      "alternatives": [
+        "0-2",
+        "1-3",
+        "0-4"
+      ]
+    }
   },
   "1417979": {
     "match": {
@@ -1889,7 +3647,15 @@
       "status": "NS",
       "tournament": "World Cup 2026"
     },
-    "h2h": [],
+    "h2h": [
+      {
+        "date": "2022-12-01",
+        "score": "0-0",
+        "winner": "Draw",
+        "competition": "World Cup",
+        "events": []
+      }
+    ],
     "last5_home": [
       "W",
       "D",
@@ -1903,7 +3669,15 @@
       "W",
       "L",
       "W"
-    ]
+    ],
+    "prediction": {
+      "most_likely_score": "1-1",
+      "alternatives": [
+        "2-1",
+        "1-0",
+        "0-1"
+      ]
+    }
   },
   "1417980": {
     "match": {
@@ -1918,12 +3692,15 @@
       {
         "date": "2021-06-13",
         "score": "1-0",
-        "winner": "England"
-      },
-      {
-        "date": "2018-07-11",
-        "score": "2-1",
-        "winner": "Croatia"
+        "winner": "England",
+        "events": [
+          {
+            "minute": 57,
+            "team": "England",
+            "player": "Raheem Sterling",
+            "type": "goal"
+          }
+        ]
       }
     ],
     "last5_home": [
@@ -1939,6 +3716,14 @@
       "W",
       "L",
       "W"
-    ]
+    ],
+    "prediction": {
+      "most_likely_score": "2-1",
+      "alternatives": [
+        "1-1",
+        "2-0",
+        "1-0"
+      ]
+    }
   }
 }
